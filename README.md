@@ -66,7 +66,7 @@ Set up the Go workspace by defining the GOPATH environment variable:
 ```sh
 export GOPATH=\$HOME/go
 
-source \~/.bashrc #apply the changes to your current session
+source \~/.bashrc #apply the changes to the current session
 ```
 4.  Install NGINX:
 ```sh
