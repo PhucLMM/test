@@ -4,11 +4,11 @@
 
 ## Team members:
 
-\- Phạm Hải Nam (BI12-307)
-\- Lê Mậu Minh Phúc (BI12-351)
-\- Đoàn Hữu Thành (BI12-418)
-\- Hoàng Hà Đăng (BI12-077)
-\- Nguyễn Đức Thành (BI12-420)
+- Phạm Hải Nam (BI12-307)
+- Lê Mậu Minh Phúc (BI12-351)
+- Đoàn Hữu Thành (BI12-418)
+- Hoàng Hà Đăng (BI12-077)
+- Nguyễn Đức Thành (BI12-420)
 
 ## Overview:
 
